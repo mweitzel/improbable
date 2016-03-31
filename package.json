@@ -1,0 +1,20 @@
+{
+  "name": "improbable",
+  "version": "0.0.1",
+  "description": "give a function and a probability, recieve either that function or a noop",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mweitzel/improbable"
+  },
+  "keywords": [
+    "probably",
+    "mixin"
+  ],
+  "author": "Matthew Weitzel <mweitzel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mweitzel/improbable/issues"
+  },
+  "homepage": "https://github.com/mweitzel/improbable"
+}
